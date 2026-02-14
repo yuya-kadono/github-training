@@ -1,1 +1,1 @@
-# github-training
+GitHub研修用のサンプルリポジトリです
